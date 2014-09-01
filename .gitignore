@@ -1,0 +1,11 @@
+StyleCop.Cache
+*.user
+*.suo
+*.pdb
+*.ncrunchproject
+obj
+bin
+csx
+_NCrunch*
+src/packages/*
+!src/packages/repositories.config
